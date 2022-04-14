@@ -22,28 +22,46 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+  - title: PhD Student
+    company: Linköping University
+    company_url: 'https://liu.se/en'
+    company_logo: liu
+    location: Norrköping, Sweden
+    date_start: '2020-08-17'
     date_end: ''
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Work within research projects.
+        * Assist in teaching.
+
+  - title: Software Engineer II
+    company: Microsoft
+    company_url: 'https://azure.microsoft.com/en-us/'
+    company_logo: microsoft
+    location: Beijing, China
+    date_start: '2019-04-19'
+    date_end: '2020-07-30'
+    description: |2-
+        Responsibilities include:
         
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+        * Management for Azure network infrastructure metadata.
+        * Design and implementation for new network infrastructure metadata buildout scenarios.
+        * Ensure Azure network infrastructure availability and business continuity.
+        
+  - title: Senior Software R&D Engineer
+    company: Baidu
+    company_url: 'https://apollo.auto/'
+    company_logo: baidu
+    location: Beijing, China
+    date_start: '2017-11-01'
+    date_end: '2019-04-11'
+    description: |2-
+        Responsibilities include:
+        
+        * Design and implementation for adaptive message-oriented middleware in distributed system.
+        * Implementation for a message recording tool, which supports the recording, extraction and playback of messages.
+        * Expand influence for Apollo and Cyber RT.
 
 design:
   columns: '2'
