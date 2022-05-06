@@ -28,7 +28,7 @@ education:
   courses:
   - course: PhD Student
     institution: Linköping University, Sweden
-    year: Ongoing
+    year: 2020 - Present
   - course: Master of Engineering
     institution: Zhejiang University, China
     year: 2017

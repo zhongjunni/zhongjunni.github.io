@@ -15,11 +15,11 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2022-04-01T00:00:00Z"
+date: "2022-05-04T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2022-04-01T00:00:00Z"
+publishDate: "2022-05-04T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -28,8 +28,8 @@ publishDate: "2022-04-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In submission to *The 4th International Conference on Energy Efficiency in Historic Buildings*
-publication_short: In submission to *EEHB 2022*
+publication: Accepted in *The 4th International Conference on Energy Efficiency in Historic Buildings*
+publication_short: Accepted in *EEHB 2022*
 
 abstract: Information and communication technologies (ICTs) help preserve historic buildings and optimize energy efficiency. This study proposes a digitalization framework for historic buildings by utilizing ICTs, such as Internet of Things (IoT), digital twins, and cloud computing. A digital twin is a digital representation of physical world assets that genuinely reflects the properties of real-world objects and processes. In this study, historic buildings are modeled with cloud-based digital twins. Indoor environmental data are collected with locally deployed sensors and ingested to a digital twin in real-time. The digital twin enables decision-makers to remotely monitor the indoor environment of a historic building and actively manipulate actuators to perform maintenance. Empowered by data analytics and artificial intelligence (AI), a digital twin can further simulate and predict state changes in a historic building to reach desired autonomous maintenance and energy saving.
 
@@ -51,7 +51,7 @@ url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: ''
+url_slides: 'https://historicbuildings.azurewebsites.net/news/eehb2022-talk-20220504'
 url_source: ''
 url_video: ''
 
