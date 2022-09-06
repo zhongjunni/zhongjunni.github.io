@@ -28,7 +28,7 @@ publishDate: "2021-08-26T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: Accepted in *IEEE Access*
+publication: In *IEEE Access*
 # publication_short: In *ICW*
 
 abstract: Historic buildings require good maintenance to sustain their function and preserve embodied heritage values. Previous studies have demonstrated the benefits of digitalization techniques in improving maintenance and managing threats to historic buildings. However, there still lacks a solution that can consistently organize data collected from historic buildings to reveal operating conditions of historic buildings in real-time and to facilitate various data analytics and simulations. This study aims to provide such a solution to help achieve preventive conservation. The proposed solution integrates Internet of Things and ontology to create digital twins of historic buildings. Internet of Things enables revealing the latest status of historic buildings, while ontology provides a consistent data schema for representing historic buildings. This study also gives a reference implementation by using public cloud services and open-source software libraries, which make it easier to be reused in other historic buildings. To verify the feasibility of the solution, we conducted a case study in the City Theatre, Norrköping, Sweden. The obtained results demonstrate the advantages of digital twins in providing maintenance knowledge and identifying potential risks caused by fluctuations of relative humidity.
