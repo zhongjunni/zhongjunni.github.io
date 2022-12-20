@@ -33,7 +33,7 @@ experience:
         Responsibilities include:
         
         * Work within research projects.
-        * Assist in teaching.
+        * Assist in teaching courses Digital Electronics and Design (TNE094), Microcomputer Systems (TNE097).
 
   - title: Software Engineer II
     company: Microsoft

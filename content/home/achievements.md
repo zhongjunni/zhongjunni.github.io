@@ -12,6 +12,7 @@ subtitle: ""
 
 ---
 
-- Sweden University Challenge Huawei Hackathon 2021, 3rd place out of 200+ participants with 10,000 SEK prize, 2021.
+- Huawei Sweden Hackathon 2022, 3rd place out of 160+ registrants with 10,000 SEK prize, 2022.
+- Huawei Sweden Hackathon 2021, 3rd place out of 200+ registrants with 10,000 SEK prize, 2021.
 - Best Newcomer, Baidu, 2018.
 - Excellent Postgraduate Students' Award, Zhejiang University, 2017.
