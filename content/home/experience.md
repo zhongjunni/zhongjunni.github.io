@@ -33,7 +33,7 @@ experience:
         Responsibilities include:
         
         * Work within research projects.
-        * Assist in teaching courses Digital Electronics and Design (TNE094), Microcomputer Systems (TNE097).
+        * Assist in teaching courses Digital Electronics and Design (TNE094) and Microcomputer Systems (TNE097).
 
   - title: Software Engineer II
     company: Microsoft
@@ -45,8 +45,8 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Management for Azure network infrastructure metadata.
-        * Design and implementation for new network infrastructure metadata buildout scenarios.
+        * Manage Azure network infrastructure metadata.
+        * Design and implement new network infrastructure metadata buildout scenarios.
         * Ensure Azure network infrastructure availability and business continuity.
         
   - title: Senior Software R&D Engineer
@@ -59,8 +59,8 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Design and implementation for adaptive message-oriented middleware in distributed system.
-        * Implementation for a message recording tool, which supports the recording, extraction and playback of messages.
+        * Design and implement adaptive message-oriented middleware in distributed systems.
+        * Implement a message recording tool, which supports the recording, extraction and playback of messages.
         * Expand influence for Apollo and Cyber RT.
 
 design:

@@ -1,12 +1,12 @@
 ---
-title: "Link Historic Buildings to Cloud with Internet of Things and Digital Twins"
+title: "A study of deep learning-based multi-horizon building energy forecasting"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - Zhongjun Ni
-- Yu Liu
+- Chi Zhang
 - Magnus Karlsson
 - Shaofang Gong
 
@@ -15,23 +15,23 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2022-05-04T00:00:00Z"
+date: "2023-03-14T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2022-05-04T00:00:00Z"
+publishDate: ""
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *The 4th International Conference on Energy Efficiency in Historic Buildings*
-publication_short: In *EEHB 2022*
+publication: Submitted to *Energy and Buildings*
+# publication_short: In *ICW*
 
-abstract: Information and communication technologies (ICTs) help preserve historic buildings and optimize energy efficiency. This study proposes a digitalization framework for historic buildings by utilizing ICTs, such as Internet of Things (IoT), digital twins, and cloud computing. A digital twin is a digital representation of physical world assets that genuinely reflects the properties of real-world objects and processes. In this study, historic buildings are modeled with cloud-based digital twins. Indoor environmental data are collected with locally deployed sensors and ingested to a digital twin in real-time. The digital twin enables decision-makers to remotely monitor the indoor environment of a historic building and actively manipulate actuators to perform maintenance. Empowered by data analytics and artificial intelligence (AI), a digital twin can further simulate and predict state changes in a historic building to reach desired autonomous maintenance and energy saving.
+abstract: Building energy forecasting facilitates optimizing daily operation scheduling and long-term energy planning. Many studies have demonstrated the potential of data-driven approaches in producing point forecasts of energy use. Despite this, little work has been undertaken to understand uncertainty in energy forecasts. However, many decision-making scenarios require information from a full conditional distribution of forecasts. This study has adapted and applied state-of-the-art deep learning architectures to address the problem of multi-horizon building energy forecasting. Eight different methods, including seven deep learning-based ones, were investigated to develop models to perform point and probabilistic forecasts. A comprehensive case study was conducted in two public historic buildings with different operating modes, namely the City Museum and the City Theatre, in Norrköping, Sweden. The performance of the developed models was evaluated, and the predictability of different scenarios of energy consumption was studied. The results show that incorporating future information on exogenous factors that determine energy use is critical for making accurate multi-horizon predictions. Furthermore, changes in the operating mode and activities held in a building bring more uncertainty in energy use and deteriorate the prediction accuracy of models. As assessed by the coefficient of variance of the root mean square error (CV-RMSE), the temporal fusion transformer (TFT) model exhibited strong competitiveness in performing point forecasts. The TFT model outperformed other models in predicting both types of energy use of the City Museum (CV-RMSE 29.7% for electricity consumption and CV-RMSE 8.7% for heating load) and heating load of the City Theatre (CV-RMSE 13.3%). In contrast to the dominance of the TFT model in point forecast, none of the models dominated the probabilistic forecast. The TFT, long short-term memory (LSTM), and gated recurrent unit (GRU) models made better probabilistic forecasts than others. 
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -46,12 +46,12 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://www.baufachinformation.de/eehb-2022-post-prints/bu/22109003312'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: 'https://historicbuildings.azurewebsites.net/news/eehb2022-talk-20220504'
+url_slides: ''
 url_source: ''
 url_video: ''
 

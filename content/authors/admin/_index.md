@@ -14,7 +14,7 @@ organizations:
   url: https://liu.se/en
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include digital twin, edge computing, Internet of Things, and time series analysis.
+bio: My research interests include digital twin, edge computing, Internet of Things, time series analysis, and optimization.
 
 # Interests to show in About widget
 interests:
@@ -22,6 +22,7 @@ interests:
 - Edge Computing
 - Internet of Things
 - Time Series Analysis
+- Optimization
 
 # Education to show in About widget
 education:
@@ -68,5 +69,5 @@ email: ""
 highlight_name: true
 ---
 
-Zhongjun Ni is currently a Ph.D. student under the supervision of Prof. [Shaofang Gong](https://liu.se/en/employee/shago75) and Sr. Assoc. Prof. [Magnus Karlsson](https://liu.se/en/employee/magka07) with the Department of Science and Technology, Linköping University. His research interests include digital twin, edge computing, Internet of Things, and time series analysis. He received his B.Eng. and M.Eng. degrees from Zhejiang University, Hangzhou, China, in 2014 and 2017, respectively. Between April 2017 and July 2020, he worked as a software engineer in the industry and applied for three U.S. patents for his work in distributed systems.
+Zhongjun Ni is currently a Ph.D. student under the supervision of Prof. [Shaofang Gong](https://liu.se/en/employee/shago75) and Sr. Assoc. Prof. [Magnus Karlsson](https://liu.se/en/employee/magka07) with the Department of Science and Technology, Linköping University. His research interests include digital twin, edge computing, Internet of Things, time series analysis, and optimization. He received his B.Eng. and M.Eng. degrees from Zhejiang University, Hangzhou, China, in 2014 and 2017, respectively. Between April 2017 and July 2020, he worked as a software engineer in the industry and applied for three U.S. patents for his work in distributed systems.
 
