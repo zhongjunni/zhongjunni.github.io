@@ -1,5 +1,5 @@
 ---
-title: "A study of deep learning-based multi-horizon building energy forecasting"
+title: "Leveraging Deep Learning and Digital Twins to Improve Energy Performance of Buildings"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -15,7 +15,7 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2023-03-14T00:00:00Z"
+date: "2023-03-30T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -25,13 +25,13 @@ publishDate: ""
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In submission to *Energy and Buildings*
+publication: In submission to *The 3rd IEEE International Conference on Industrial Electronics for Sustainable Energy Systems*
 # publication_short: In *ICW*
 
-abstract: Building energy forecasting facilitates optimizing daily operation scheduling and long-term energy planning. Many studies have demonstrated the potential of data-driven approaches in producing point forecasts of energy use. Despite this, little work has been undertaken to understand uncertainty in energy forecasts. However, many decision-making scenarios require information from a full conditional distribution of forecasts. This study has adapted and applied state-of-the-art deep learning architectures to address the problem of multi-horizon building energy forecasting. Eight different methods, including seven deep learning-based ones, were investigated to develop models to perform point and probabilistic forecasts. A comprehensive case study was conducted in two public historic buildings with different operating modes, namely the City Museum and the City Theatre, in Norrköping, Sweden. The performance of the developed models was evaluated, and the predictability of different scenarios of energy consumption was studied. The results show that incorporating future information on exogenous factors that determine energy use is critical for making accurate multi-horizon predictions. Furthermore, changes in the operating mode and activities held in a building bring more uncertainty in energy use and deteriorate the prediction accuracy of models. As assessed by the coefficient of variance of the root mean square error (CV-RMSE), the temporal fusion transformer (TFT) model exhibited strong competitiveness in performing point forecasts. The TFT model outperformed other models in predicting both types of energy use of the City Museum (CV-RMSE 29.7% for electricity consumption and CV-RMSE 8.7% for heating load) and heating load of the City Theatre (CV-RMSE 13.3%). In contrast to the dominance of the TFT model in point forecast, none of the models dominated the probabilistic forecast. The TFT, long short-term memory (LSTM), and gated recurrent unit (GRU) models made better probabilistic forecasts than others. 
+abstract: Digital transformation in buildings accumulates massive operational data, which calls for smart solutions to utilize these data to improve energy performance. This study has proposed a solution, namely Deep Energy Twin, for integrating deep learning and digital twins to better understand building energy use and identify the potential for improving energy efficiency. Ontology was adopted to create parametric digital twins to provide consistency of data format across different systems in a building. Based on created digital twins and collected data, deep learning methods were used for performing data analytics to identify patterns and provide insights for energy optimization. As a demonstration, a case study was conducted in a public historic building in Norrköping, Sweden, to compare the performance of state-of-the-art deep learning architectures in building energy forecasting. 
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
