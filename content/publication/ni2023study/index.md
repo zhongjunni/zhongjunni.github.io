@@ -15,8 +15,8 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2023-03-14T00:00:00Z"
-doi: ""
+date: "2023-12-01T00:00:00Z"
+doi: "https://doi.org/10.1016/j.enbuild.2023.113810"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ""
@@ -28,7 +28,7 @@ publishDate: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In submission to *Energy and Buildings*
+publication: In *Energy and Buildings*
 # publication_short: In *ICW*
 
 abstract: Building energy forecasting facilitates optimizing daily operation scheduling and long-term energy planning. Many studies have demonstrated the potential of data-driven approaches in producing point forecasts of energy use. Despite this, little work has been undertaken to understand uncertainty in energy forecasts. However, many decision-making scenarios require information from a full conditional distribution of forecasts. This study has adapted and applied state-of-the-art deep learning architectures to address the problem of multi-horizon building energy forecasting. Eight different methods, including seven deep learning-based ones, were investigated to develop models to perform point and probabilistic forecasts. A comprehensive case study was conducted in two public historic buildings with different operating modes, namely the City Museum and the City Theatre, in Norrköping, Sweden. The performance of the developed models was evaluated, and the predictability of different scenarios of energy consumption was studied. The results show that incorporating future information on exogenous factors that determine energy use is critical for making accurate multi-horizon predictions. Furthermore, changes in the operating mode and activities held in a building bring more uncertainty in energy use and deteriorate the prediction accuracy of models. As assessed by the coefficient of variance of the root mean square error (CV-RMSE), the temporal fusion transformer (TFT) model exhibited strong competitiveness in performing point forecasts. The TFT model outperformed other models in predicting both types of energy use of the City Museum (CV-RMSE 29.7% for electricity consumption and CV-RMSE 8.7% for heating load) and heating load of the City Theatre (CV-RMSE 13.3%). In contrast to the dominance of the TFT model in point forecast, none of the models dominated the probabilistic forecast. The TFT, long short-term memory (LSTM), and gated recurrent unit (GRU) models made better probabilistic forecasts than others. 
@@ -46,7 +46,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://www.sciencedirect.com/science/article/pii/S037877882301040X'
 url_code: ''
 url_dataset: ''
 url_poster: ''

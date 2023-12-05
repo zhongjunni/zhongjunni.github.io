@@ -15,8 +15,8 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2023-03-30T00:00:00Z"
-doi: "https://doi.org/10.48550/arXiv.2305.04498"
+date: "2023-07-26T00:00:00Z"
+doi: "https://doi.org/10.1109/IESES53571.2023.10253721"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ""
@@ -28,7 +28,7 @@ publishDate: ""
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: Accepted in *the 3rd IEEE International Conference on Industrial Electronics for Sustainable Energy Systems*
+publication: In *the 3rd IEEE International Conference on Industrial Electronics for Sustainable Energy Systems*
 # publication_short: In *ICW*
 
 abstract: Digital transformation in buildings accumulates massive operational data, which calls for smart solutions to utilize these data to improve energy performance. This study has proposed a solution, namely Deep Energy Twin, for integrating deep learning and digital twins to better understand building energy use and identify the potential for improving energy efficiency. Ontology was adopted to create parametric digital twins to provide consistency of data format across different systems in a building. Based on created digital twins and collected data, deep learning methods were used for performing data analytics to identify patterns and provide insights for energy optimization. As a demonstration, a case study was conducted in a public historic building in Norrköping, Sweden, to compare the performance of state-of-the-art deep learning architectures in building energy forecasting. 
