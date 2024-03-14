@@ -1,5 +1,5 @@
 ---
-title: "Leveraging Deep Learning and Digital Twins to Improve Energy Performance of Buildings"
+title: "Edge-based Parametric Digital Twins for Intelligent Building Indoor Climate Modeling"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -15,8 +15,8 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2023-07-26T00:00:00Z"
-doi: "https://doi.org/10.1109/IESES53571.2023.10253721"
+date: "2024-03-01T00:00:00Z"
+doi: "https://doi.org/10.48550/arXiv.2403.04326"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ""
@@ -28,10 +28,10 @@ publishDate: ""
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *the 3rd IEEE International Conference on Industrial Electronics for Sustainable Energy Systems*
-publication_short: In *IESES 2023*
+publication: Accepted in *the 20th IEEE International Conference on Factory Communication Systems*
+publication_short: In *WFCS 2024*
 
-abstract: Digital transformation in buildings accumulates massive operational data, which calls for smart solutions to utilize these data to improve energy performance. This study has proposed a solution, namely Deep Energy Twin, for integrating deep learning and digital twins to better understand building energy use and identify the potential for improving energy efficiency. Ontology was adopted to create parametric digital twins to provide consistency of data format across different systems in a building. Based on created digital twins and collected data, deep learning methods were used for performing data analytics to identify patterns and provide insights for energy optimization. As a demonstration, a case study was conducted in a public historic building in Norrköping, Sweden, to compare the performance of state-of-the-art deep learning architectures in building energy forecasting. 
+abstract: Digital transformation in the built environment generates vast data for developing data-driven models to optimize building operations. This study presents an integrated solution utilizing edge computing, digital twins, and deep learning to enhance the understanding of climate in buildings. Parametric digital twins, created using an ontology, ensure consistent data representation across diverse service systems equipped by different buildings. Based on created digital twins and collected data, deep learning methods are employed to develop predictive models for identifying patterns in indoor climate and providing insights. Both the parametric digital twin and deep learning models are deployed on edge for low latency and privacy compliance. As a demonstration, a case study was conducted in a historic building in Östergötland, Sweden, to compare the performance of five deep learning architectures. The results indicate that the time-series dense encoder model exhibited strong competitiveness in performing multi-horizon forecasts of indoor temperature and relative humidity with low computational costs. 
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -46,7 +46,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/pdf/2305.04498.pdf'
+url_pdf: 'https://arxiv.org/pdf/2403.04326.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
